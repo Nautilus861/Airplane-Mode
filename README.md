@@ -1,5 +1,6 @@
 # Airplane-Mode
 This repo will act as the source of truth for all documentation regarding project Airplane Mode.
+***STATUS:*** Concept development and preliminary design.
 
 # Introduction
 "Project Airplane Mode" is a challenge, an opportunity to apply a chronically under-utilized understanding of the fundamentals of mechanical engineering, and most of all a monument to hubris.

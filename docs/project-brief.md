@@ -8,10 +8,10 @@ While necessarily unsafe in some ways, this case is designed not for consumer sa
 When a phone is dropped, it can be damaged upon impact.
 
 # Project Goals
-1. To work on a project that stretches and applies my tools, skills, and knowledge
-2. To create a case that can (minimum: measurably reduce the impact energy/velocity) (ideally: completely arrest the fall) of a phone dropped from:
-  1. A controlled height/orientation (minimum)
-  2. A controlled height and arbitrary orientation (ideal)
-  3. An uncontrolled height and orientation (i.e. yeet the phone into the air, it falls gracefully to the ground) (stretch)
-4. Develop, manufacture, and integrate a cold gas propulsion system that achieves goal 2
-5. Have fun
+- To work on a project that stretches and applies my tools, skills, and knowledge
+- To create a case that can (minimum: measurably reduce the impact energy/velocity) (ideally: completely arrest the fall) of a phone dropped from:
+-   A controlled height/orientation (minimum)
+-   A controlled height and arbitrary orientation (ideal)
+-   An uncontrolled height and orientation (i.e. yeet the phone into the air, it falls gracefully to the ground) (stretch)
+- Develop, manufacture, and integrate a cold gas propulsion system that achieves goal 2
+- Have fun
